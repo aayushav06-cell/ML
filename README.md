@@ -10,7 +10,7 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 02 | Model Evaluation, Algorithms Deep Dive, Real Projects | ✅ Done |
 | Day 03 | Ensemble Methods, SVM, Hyperparameter Tuning, Regularization, Model Comparison | ✅ Done |
 | Day 04 | Unsupervised Learning, Neural Networks, Anomaly Detection, Model Deployment | ✅ Done |
-| Day 05 | Deep Learning: TensorFlow/PyTorch, CNNs, RNNs, NLP, Transfer Learning | ✅ Done | [Explanation](Day-05-Explanation.md) |
+| Day 05 | Deep Learning: TensorFlow/PyTorch, CNNs, RNNs, NLP, Transfer Learning | ✅ Done | [Explanation](Day-05/Day-05-Explanation.md) |
 
 ## Quick Start
 
