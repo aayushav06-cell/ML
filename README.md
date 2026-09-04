@@ -54,6 +54,17 @@ cat README.md
 - Model deployment: saving/loading with joblib, production pipeline, monitoring
 - End-to-end project: Mall Customers Segmentation
 
+**Day 05:**
+- Deep learning frameworks: TensorFlow, PyTorch, JAX
+- Convolutional Neural Networks (CNNs): architecture, ResNet, VGGNet
+- Data augmentation for CNNs
+- Recurrent Neural Networks: RNN, LSTM, GRU, Seq2Seq models
+- Natural Language Processing: word embeddings, Word2Vec, BERT, text generation
+- Transfer learning: fine-tuning pre-trained models, LoRA
+- Advanced topics: GANs, autoencoders, reinforcement learning basics
+- Production deployment: TorchScript, ONNX, FastAPI serving, model monitoring
+- Hands-on exercises: MNIST CNN, text generation, BERT fine-tuning
+
 ---
 
-*Last updated: Day 04*
+*Last updated: Day 05*
