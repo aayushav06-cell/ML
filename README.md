@@ -11,6 +11,8 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 03 | Ensemble Methods, SVM, Hyperparameter Tuning, Regularization, Model Comparison | ✅ Done |
 | Day 04 | Unsupervised Learning, Neural Networks, Anomaly Detection, Model Deployment | ✅ Done |
 | Day 05 | Deep Learning: TensorFlow/PyTorch, CNNs, RNNs, NLP, Transfer Learning | ✅ Done |
+| Day 06 | Transformers, Attention Mechanisms, Generative AI, ViT | ✅ Done |
+| Day 07 | MLOps & Production Deployment, Model Serving, Monitoring | ✅ Done |
 
 ## Quick Start
 
