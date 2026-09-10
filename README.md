@@ -15,6 +15,7 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 07 | MLOps & Production Deployment, Model Serving, Monitoring | ✅ Done |
 | Day 08 | AI Ethics, Bias, and Responsible AI | ✅ Done |
 | Day 09 | Advanced CNNs, ViT, GANs, Diffusion Models | ✅ Done |
+| Day 10 | Reinforcement Learning, Recommendation Systems, Multimodal AI | ✅ Done |
 
 ## Quick Start
 
@@ -69,6 +70,12 @@ cat README.md
 - Production deployment: TorchScript, ONNX, FastAPI serving, model monitoring
 - Hands-on exercises: MNIST CNN, text generation, BERT fine-tuning
 
+**Day 10:**
+- Reinforcement Learning: MDPs, Q-learning, exploration/exploitation, policy evaluation
+- Recommendation Systems: Collaborative filtering, content-based, hybrid approaches, evaluation metrics
+- Multimodal AI: Vision-language models, contrastive learning, fusion strategies, applications
+- Hands-on exercise: Q-learning agent on FrozenLake
+
 ---
 
-*Last updated: Day 09*
+*Last updated: Day 10*
