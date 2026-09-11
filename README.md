@@ -16,6 +16,7 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 08 | AI Ethics, Bias, and Responsible AI | ✅ Done |
 | Day 09 | Advanced CNNs, ViT, GANs, Diffusion Models | ✅ Done |
 | Day 10 | Reinforcement Learning, Recommendation Systems, Multimodal AI | ✅ Done |
+| Day 11 | Large Language Models (LLMs), Prompt Engineering, Chain-of-Thought | ✅ Done |
 
 ## Quick Start
 
@@ -70,12 +71,44 @@ cat README.md
 - Production deployment: TorchScript, ONNX, FastAPI serving, model monitoring
 - Hands-on exercises: MNIST CNN, text generation, BERT fine-tuning
 
+**Day 06:**
+- Transformers: Self-attention, multi-head attention, positional encoding, encoder-decoder architecture
+- Generative AI: GPT, diffusion models, ViT
+- Practical implementation with PyTorch
+- Hands-on exercise with attention mechanisms
+
+**Day 07:**
+- MLOps: Model serialization (state_dict, TorchScript, pickle, ONNX), model serving APIs, monitoring and observability
+- CI/CD for ML, edge/mobile deployment, cost optimization and scaling
+- Hands-on exercise: Production deployment
+
+**Day 08:**
+- AI Ethics: Bias types (historical, selection, measurement, algorithmic, deployment), fairness metrics (demographic parity, equalized odds, equal opportunity)
+- Bias detection and mitigation (pre-processing, in-processing, post-processing), explainability (SHAP, LIME, feature importance)
+- Responsible AI frameworks, privacy (differential privacy, federated learning, GDPR), model cards
+- Hands-on exercise: Bias detection and fairness audit
+
+**Day 09:**
+- Advanced CNNs: ResNet, DenseNet, EfficientNet, MobileNetV3, ConvNeXt, residual learning, factorized convolutions
+- Vision Transformers (ViT), GANs (DCGAN, WGAN-GP), Diffusion Models (U-Net, forward/reverse processes)
+- Training stability and evaluation (spectral norm, FID/IS), hands-on DCGAN on CIFAR-10
+- Synthetic media safety: provenance, watermarks, usage policies
+
 **Day 10:**
 - Reinforcement Learning: MDPs, Q-learning, exploration/exploitation, policy evaluation
 - Recommendation Systems: Collaborative filtering, content-based, hybrid approaches, evaluation metrics
 - Multimodal AI: Vision-language models, contrastive learning, fusion strategies, applications
 - Hands-on exercise: Q-learning agent on FrozenLake
 
+**Day 11:**
+- Large Language Models (LLMs): Transformer architectures (decoder-only), next-token prediction, scaling laws
+- Prompt Engineering: Zero-shot, few-shot, Chain-of-Thought (CoT), Self-Consistency, ReAct, Tree-of-Thoughts
+- Fine-tuning vs. In-context learning: LoRA, QLoRA, prefix tuning
+- Advanced strategies: ReAct, Tree-of-Thoughts, Least-to-Most prompting
+- Hands-on exercise: Prompt engineering lab (prompt comparison, CoT, structured output)
+- Evaluation: Perplexity, BLEU, human evaluation, latency/cost optimization
+- Common pitfalls: Hallucination, context overflow, prompt injection, cost explosion
+
 ---
 
-*Last updated: Day 10*
+*Last updated: Day 11*
