@@ -17,6 +17,9 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 09 | Advanced CNNs, ViT, GANs, Diffusion Models | ✅ Done |
 | Day 10 | Reinforcement Learning, Recommendation Systems, Multimodal AI | ✅ Done |
 | Day 11 | Large Language Models (LLMs), Prompt Engineering, Chain-of-Thought | ✅ Done |
+| Day 12 | Retrieval-Augmented Generation (RAG) and Vector Databases | ✅ Done |
+| Day 13 | Production-Grade RAG Systems | 🔲 Planned |
+| Day 14 | Multi-Agent RAG Systems | 🔲 Planned |
 
 ## Quick Start
 
@@ -109,6 +112,16 @@ cat README.md
 - Evaluation: Perplexity, BLEU, human evaluation, latency/cost optimization
 - Common pitfalls: Hallucination, context overflow, prompt injection, cost explosion
 
+**Day 12:**
+- Retrieval-Augmented Generation (RAG): Three-stage pipeline (Retrieval → Augmentation → Generation)
+- Vector Databases: ChromaDB, Pinecone, Weaviate, Qdrant, FAISS+PostgreSQL
+- Embedding Models: Text embeddings, chunking strategies (fixed, semantic, recursive)
+- RAG Pipeline Implementation: Complete end-to-end with caching and monitoring
+- Advanced RAG Techniques: Hybrid search, re-ranking, query expansion, multi-hop reasoning
+- Evaluation Metrics: Precision/Recall@K, F1, MAP, NDCG, factuality, completeness
+- Common Pitfalls: Chunking issues, embedding quality, retrieval failures, hallucinations
+- Hands-on Exercise: Complete RAG pipeline with ML document collection
+
 ---
 
-*Last updated: Day 11*
+*Last updated: Day 12*

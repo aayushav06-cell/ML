@@ -291,7 +291,7 @@ Actual task: Summarize the following text: [text]"""
 
 ## 11. Next Steps
 
-- **Day 12**: Retrieval-Augmented Generation (RAG) and Vector Databases
+- **Day 12**: Retrieval-Augmented Generation (RAG) and Vector Databases — ✅ Done
 - Implement a RAG pipeline: chunking → embedding → vector store → retrieval → generation
 - Build a multi-turn chat agent with conversation memory
 - Compare prompt engineering vs fine-tuning for a specific task (e.g., sentiment classification)
