@@ -19,7 +19,8 @@ A structured journey through Machine Learning — from basics to advanced concep
 | Day 11 | Large Language Models (LLMs), Prompt Engineering, Chain-of-Thought | ✅ Done |
 | Day 12 | Retrieval-Augmented Generation (RAG) and Vector Databases | ✅ Done |
 | Day 13 | Production-Grade RAG Systems | ✅ Done |
-| Day 14 | Multi-Agent RAG Systems | 🔲 Planned |
+| Day 14 | Multi-Agent RAG Systems | ✅ Done |
+| Day 15 | Self-Healing RAG Systems | 🔲 Planned |
 
 ## Quick Start
 
@@ -124,4 +125,4 @@ cat README.md
 
 ---
 
-*Last updated: Day 13*
+*Last updated: Day 14*
